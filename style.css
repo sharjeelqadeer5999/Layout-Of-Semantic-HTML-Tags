@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+}
+.abc{
+background-color: mistyrose;
+text-align: center;
+width: 230px;
+height: 399px;
+padding: 10px;
+}
+.flex-container{
+display: flex;
+}
+header{
+background-color: hotpink;
+font-size: xx-large;
+padding: 5px;
+}
+nav{
+background-color: aquamarine; 
+margin: 10px 0px;  
+width: 230px;
+}
+aside{
+background-color: pink; 
+margin-right: 10px;   
+width: 75px;
+height: 138px;
+padding-top: 118px;
+}
+main{
+background-color: lightblue;  
+padding: 10px;
+}
+article{
+background-color: lightskyblue;   
+padding: 10px; 
+margin: 5px;
+}
+figure{
+background-color: lemonchiffon;   
+margin-bottom: 5px; 
+padding: 20px;  
+margin-top: 5px;
+}
+p{
+background-color: blanchedalmond;
+padding: 20px; 
+}
+section{
+background-color: royalblue;
+padding: 10px;
+width: 98px;
+margin-left: 4px;
+}
+footer{
+background-color: mediumpurple; 
+font-size: xx-large;
+padding: 5px;
+margin-top: 10px;
+}
